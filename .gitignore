@@ -1,1 +1,6 @@
 testowy_plik.txt
+log/
+built/
+*.pdf
+*.tmp
+*.log
